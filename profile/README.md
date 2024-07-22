@@ -1,10 +1,9 @@
 # Warehouse Robot
-
-<div align="center" ><img width="100%" height="200%" alt="LeoGV" src=""></div>
-
 Our Project is an Autonomous Warehouse Robot designed with the main goal of being mobile, capable of maneuvering around the warehouse, aware of its environment, powerful enough to carry heavy weights, and as inexpensive as possible to be deployed in vast numbers.
 
 As a team, our primary goal was to build everything ourselves and learn as much as possible. This approach led us to develop all the software components, low-level MCAL and ECUAL drivers, and application codes for our microcontroller STM32G431 entirely from scratch in C. We also designed our own PCBs, which were manufactured in China and assembled by us.
+
+<div align="center" ><img width="60%" height="100%" alt="LeoGV" src="https://github.com/Project-LeoGV/.github/blob/main/LeoGV.jpg"></div>
 
 ## Main Features
 
