@@ -1,4 +1,7 @@
-# Warehouse Robot
+<div align="center" > 
+  
+  # Warehouse Robot
+</div>
 Our Project is an Autonomous Warehouse Robot designed with the main goal of being mobile, capable of maneuvering around the warehouse, aware of its environment, powerful enough to carry heavy weights, and as inexpensive as possible to be deployed in vast numbers.
 
 As a team, our primary goal was to build everything ourselves and learn as much as possible. This approach led us to develop all the software components, low-level MCAL and ECUAL drivers, and application codes for our microcontroller STM32G431 entirely from scratch in C. We also designed our own PCBs, which were manufactured in China and assembled by us.
